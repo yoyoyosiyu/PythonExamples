@@ -22,3 +22,10 @@ pip install mysql-connector-python
 
 ### mysql
 最好的帮助文档就是mysql官方的文档: https://dev.mysql.com/doc/connector-python/en/connector-python-examples.html
+
+### Excel
+操作excel用的是openpyxl, xlwings必须依赖于excel软件的安装
+
+pip install openpyxl
+
+文档：https://openpyxl.readthedocs.io
