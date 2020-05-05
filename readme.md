@@ -29,3 +29,7 @@ pip install mysql-connector-python
 pip install openpyxl
 
 文档：https://openpyxl.readthedocs.io
+
+### flask
+pip install flask
+pip install flask-cors
